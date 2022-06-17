@@ -48,3 +48,21 @@ a {
 .hobbies {
     align-items: flex-start;
 }
+
+.imggg{
+    position:absolute;
+    height:500px;
+    width:500px;
+    top: 200px;
+    left : 500px;
+    z-index: 1;
+}
+
+.imgg{
+    position:absolute;
+    height:200px;
+    width:200px;
+    top: 40px;
+    left : 200px;
+    z-index: 1;
+}
